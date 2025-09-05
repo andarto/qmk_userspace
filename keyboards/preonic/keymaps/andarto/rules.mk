@@ -1,0 +1,7 @@
+# SRC += muse.c
+
+UNICODE_COMMON = yes
+UNICODEMAP_ENABLE = yes
+BOOTMAGIC_ENABLE = yes
+REPEAT_KEY_ENABLE = yes
+
