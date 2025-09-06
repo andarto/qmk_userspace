@@ -61,7 +61,7 @@
 #define __________________SYMB_R2__________________        N_QUES,  N_LPARN, N_RPARN, N_MINS,  N_PLUS
 #define __________________SYMB_R3__________________        N_AT,    N_QUOT,  N_SING,  N_USC,   N_PERC
 
-#define __________________NAVI_L1__________________        _______, KC_PGUP, KC_UP,   KC_PGDN,  _______
+#define __________________NAVI_L1__________________        QK_LOCK, KC_PGUP, KC_UP,   KC_PGDN,  _______
 #define __________________NAVI_L2__________________        KC_HOME, KC_LEFT, KC_DOWN, KC_RIGHT, KC_END
 #define __________________NAVI_L3__________________        KC_UNDO, _______, OK_CTP,  OK_CPP,   KC_APP
 
