@@ -181,8 +181,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 /* KayNeo: Navigation
  * ,-----------------------------------------------------------------------------------.
- * |      |  F1  |  F2  |  F3  |  F4  |  F5  |  F6  |  F7  |  F8  |  F9  | F10  | DEL  |
- * | NUML | LOCK | PGUP |  UP  | PGDN |      |   /  |   7  |   8  |   9  |   -  |      |
+ * | NUML |  F1  |  F2  |  F3  |  F4  |  F5  |  F6  |  F7  |  F8  |  F9  | F10  | DEL  |
+ * |      | LOCK | PGUP |  UP  | PGDN |      |   /  |   7  |   8  |   9  |   -  |      |
  * |      | HOME | LEFT | DOWN | RGHT | END  |   *  |   4  |   5  |   6  |   +  |      |
  * |      | UNDO | CUT  | COPY | PSTE | APP  |   0  |   1  |   2  |   3  |   .  |      |
  * |      |      |      |      |      |      |      |      |   0  |      |   ,  |      |
